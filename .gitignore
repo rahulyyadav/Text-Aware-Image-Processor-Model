@@ -5,3 +5,4 @@ __pycache__/
 *.onnx
 *.log
 .DS_Store
+venv310/
