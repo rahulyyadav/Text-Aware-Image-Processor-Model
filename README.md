@@ -78,7 +78,10 @@ python3.10 main.py
 ```
 
 **note**
+**_There are two test images in /data you can check your own images._**
+
+**to deactivate**
 
 ```md
-There are two test images in /data you can check your own images.
+deactivate
 ```

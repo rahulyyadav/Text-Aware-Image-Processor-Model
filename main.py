@@ -338,4 +338,4 @@ def process_image(image_path):
 
 # Example usage
 if __name__ == "__main__":
-    process_image("data/test2.jpeg")
+    process_image("data/test.jpeg")
