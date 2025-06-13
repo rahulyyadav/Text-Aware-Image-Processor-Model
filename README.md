@@ -49,6 +49,8 @@ Built with efficiency and scale in mind, this tool enables more users to upload 
 
 ## Getting Started
 
+**clone repo**
+
 ```md
 git clone https://github.com/rahulyyadav/Text-Aware-Image-Processor-Model.git
 ```
@@ -57,10 +59,26 @@ git clone https://github.com/rahulyyadav/Text-Aware-Image-Processor-Model.git
 cd Text-Aware-Image-Processor-Model
 ```
 
+**install requirements**
+
 ```md
 pip install -r requirements.txt
 ```
 
+**activate venv310**
+
+```md
+source venv310/bin/activate
+```
+
+**run main.py**
+
 ```md
 python3.10 main.py
+```
+
+**note**
+
+```md
+There are two test images in /data you can check your own images.
 ```
