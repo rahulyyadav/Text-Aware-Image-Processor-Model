@@ -77,7 +77,7 @@ source venv310/bin/activate
 python3.10 main.py
 ```
 
-**note**
+**note:**
 **_There are two test images in /data you can check your own images._**
 
 **to deactivate**
